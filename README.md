@@ -1,1 +1,1 @@
-https://veleronie.github.io/git-begg/cvbeg
+https://veleronie.github.io/git-begg/cvbegg
